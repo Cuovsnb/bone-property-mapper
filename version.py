@@ -1,0 +1,7 @@
+__version__ = "1.0.0"
+__date__ = "Sep 2021"
+__author__ = ""
+__copyright__ = ""
+__license__ = ""
+__email__ = ""
+__status__ = "Development"
